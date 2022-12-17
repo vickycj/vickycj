@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/0xvignesh" target="blank"><img src="https://img.shields.io/twitter/follow/0xvignesh?logo=twitter&style=for-the-badge" alt="0xvignesh" /></a> </p>
 
-- 🔭 I’m currently working on [My own Dapp](https://letsask.app)
-
-- 🌱 I’m currently learning **Web3**
-
 - 📝 I regularly write articles on [https://vickycodes.com](https://vickycodes.com)
 
 - 💬 Ask me about **Android App Development, Blockchain, Smart contracts**
